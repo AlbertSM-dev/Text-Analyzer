@@ -1,5 +1,7 @@
 # Text-Analyzer
 
+Programming Assignment Unit 1
+
 Assignment Instructions
 This assignment aims to assess your skills/knowledge on basics of String creation and various string handling functions. This is a scenario based practical assignment to create a text analysis tool, providing students with a hands-on opportunity to apply their programming skills in a real-world context. The assignment focuses on developing a program that performs various operations on text input, enhancing students' skills in handling strings, data analysis, and user interaction. 
 
@@ -43,3 +45,5 @@ Program flow and structure - It encompasses the overall structure and behavior o
 Submission of code and screenshots of the output.
 
 Code style and readability - Refers to the way the code is written, organized, and presented. It focuses on making the code clear, easy to understand, and maintainable. 
+
+UoPeople.
